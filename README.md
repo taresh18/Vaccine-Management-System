@@ -6,7 +6,7 @@ The system provides different interface to the **admin** and the **user**. On th
 
 ## Functionalities provided to the Admin :
 
-Show Vaccine Stock
+Show Vaccine Stock </br>
 Add Vaccine Stock
 Show Vaccine Center
 Search Doctor Data
