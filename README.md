@@ -7,22 +7,22 @@ The system provides different interface to the **admin** and the **user**. On th
 ## Functionalities provided to the Admin :
 
 Show Vaccine Stock </br>
-Add Vaccine Stock
-Show Vaccine Center
-Search Doctor Data
-Show Doctor Data
-Add New Doctor Data
-Show Patient Data
-Show Total Number Of Vaccines Applied
-Logout 
+Add Vaccine Stock </br>
+Show Vaccine Center </br>
+Search Doctor Data </br>
+Show Doctor Data </br>
+Add New Doctor Data </br>
+Show Patient Data </br>
+Show Total Number Of Vaccines Applied </br>
+Logout </br>
 
 ## Functionalities provided to the User :
 
-Create User Account
-Logjn
-Search Vaccination Center
-Show Vaccine Center
-Apply For Vaccine First Dose
-Show Details
-Apply For Vaccine Second Dose
-Logout
+Create User Account </br>
+Login </br>
+Search Vaccination Center </br>
+Show Vaccine Center </br>
+Apply For Vaccine First Dose </br>
+Show Details </br>
+Apply For Vaccine Second Dose </br>
+Logout </br>
