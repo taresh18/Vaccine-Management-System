@@ -4,7 +4,7 @@ The aim of the project is to build a fully functional Information Management Sys
 
 The system provides different interface to the **admin** and the **user**. On the admin's panel, the management can handle the system records. On the user's panel, a user can register and get information about the vaccination centers and accordingly book his time slots for vaccine doses. To access the admin's panel, admin's credentials are required.
 
-![image](https://user-images.githubusercontent.com/58368119/204113222-d6a18cc2-28da-491a-b698-e028ad124bfe.png)
+![image](https://user-images.githubusercontent.com/58368119/204113289-bf05c362-0c46-4119-a024-8f109b7bc5c3.png)
 
 
 ## Functionalities provided to the Admin :
