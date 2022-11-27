@@ -9,6 +9,9 @@ The system provides different interface to the **admin** and the **user**. On th
 
 ## Functionalities provided to the Admin :
 
+![image](https://user-images.githubusercontent.com/58368119/204113343-04bae08a-1251-41eb-8cc2-c72f702357ac.png)
+
+
 Show Vaccine Stock </br>
 Add Vaccine Stock </br>
 Show Vaccine Center </br>
@@ -20,6 +23,9 @@ Show Total Number Of Vaccines Applied </br>
 Logout </br>
 
 ## Functionalities provided to the User :
+
+![image](https://user-images.githubusercontent.com/58368119/204113373-b9d0fd85-8fcc-4032-b30d-237e70ba361b.png)
+
 
 Create User Account </br>
 Login </br>
